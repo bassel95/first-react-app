@@ -1,0 +1,7 @@
+firmename,alternativ name,kreditor,gewerk,gewerk status,firmen standort
+testfirma GMBH 1,test1,kreditor 1,item x.1,item x.1,item x.1
+testfirma GMBH 2,test2,kreditor 2,item x.2,item x.2,item x.2
+testfirma GMBH 3,test3,kreditor 3,item x.3,item x.3,item x.3
+testfirma GMBH 4,test4,kreditor 4,item x.4,item x.4,item x.4
+testfirma GMBH 5,,kreditor 5,item x.5,item x.5,item x.5
+testfirma GMBH 6,,kreditor 6,item x.6,item x.6,item x.6

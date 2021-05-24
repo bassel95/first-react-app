@@ -1,0 +1,14 @@
+.submit-button-wrapper {
+    margin-top: 20px;
+    height: 30px;
+    text-align: right;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 20px;
+}
+
+.submit-button-wrapper > button {
+    width: 80px;
+    border-radius: 5px;
+}

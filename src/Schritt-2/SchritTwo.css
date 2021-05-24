@@ -1,0 +1,52 @@
+html {
+    height: 100%;
+}
+
+.container {
+    width: 100%;
+}
+
+.firma-wrapper-wrapper {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.results{
+    
+}
+.firma-wrapper {
+    width: 80%;
+    padding-left: 10px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.firma-choice-wrapper {
+    display: flex;
+}
+
+.firma-choice-label {
+    flex: 1;
+}
+
+.firma-choice-label > h5 {
+    opacity: 0.6;
+    size: 14px;
+}
+
+.search-bar {
+    flex: 4;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+
+.search > button {
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.search > input {
+    border-radius: 5px;
+    width: 250px;
+}

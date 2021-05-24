@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+}
+
+.bodyWrapper {
+    width: 100%;
+}
+
+.choice-wrapper {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.choice {
+    width: 80%;
+    padding-left: 10px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.choices {
+    display: flex;
+}
+
+.label {
+    flex: 1;
+}
+
+.radio-buttons {
+    flex: 4;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+
+.label > h5 {
+    opacity: 0.6;
+}
